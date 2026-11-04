@@ -1,0 +1,6 @@
+node_modules/
+*.tc.json
+# Local theme downloads stay out of the repo
+theme/
+live/
+draft/
